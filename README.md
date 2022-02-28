@@ -2,7 +2,7 @@
 
 ## Hi There I'm Baris Mucahid👋  [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mucahidbaris.mucahidbaris)](#)
  ![](https://img.shields.io/badge/Backend%20Developer-Engineer@Computer-red)
-  ![]
+(#)
  - 🔭  I’m currently developing **NodeJs,PHP,Mysql,Python Radiology System (RIS-DCOM-PACS)** 
 - 🌱  I’m currently learning **Go,Dijango,AI and Machine Learning**
 - 💬  Working **Ministry Health of Turkey Radiology Tech.**
@@ -32,7 +32,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mucahidbaris&theme=prussian">
 <br />
 <br />
-
+(#)
 ### Skills
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
