@@ -51,6 +51,4 @@
 <p style="width:100%"><a href="#"><img src="https://github-profile-trophy.vercel.app/?username=mucahidbaris" alt="mucahidbaris" /></a></p><br />
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mucahidbaris&show_icons=true&locale=en&layout=compact" alt="mucahidbaris" /></p><br />
-<br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mucahidbaris&show_icons=true&locale=en" alt="mucahidbaris" width="50%" /></p><br />
-<br />
+
