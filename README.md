@@ -2,6 +2,7 @@
 
 ## Hi There I'm Baris Mucahid👋  [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mucahidbaris.mucahidbaris)](#)
  ![](https://img.shields.io/badge/Backend%20Developer-Engineer@Computer-red)
+  ![]
  - 🔭  I’m currently developing **NodeJs,PHP,Mysql,Python Radiology System (RIS-DCOM-PACS)** 
 - 🌱  I’m currently learning **Go,Dijango,AI and Machine Learning**
 - 💬  Working **Ministry Health of Turkey Radiology Tech.**
