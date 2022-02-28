@@ -29,8 +29,9 @@
 </table>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mucahidbaris&theme=prussian">
-
-### You can find Languages and Tools in this Account and much more!
+<br />
+<br />
+### Skills
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -47,7 +48,9 @@
 <br />
 <br />
 ---
-<p style="width:100%"><a href="#"><img src="https://github-profile-trophy.vercel.app/?username=mucahidbaris" alt="mucahidbaris" /></a></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mucahidbaris&show_icons=true&locale=en&layout=compact" alt="mucahidbaris" /></p>
+<p style="width:100%"><a href="#"><img src="https://github-profile-trophy.vercel.app/?username=mucahidbaris" alt="mucahidbaris" /></a></p><br />
+<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mucahidbaris&show_icons=true&locale=en&layout=compact" alt="mucahidbaris" /></p><br />
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mucahidbaris&show_icons=true&locale=en" alt="mucahidbaris" width="50%" /></p><br />
 <br />
