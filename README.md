@@ -1,6 +1,6 @@
 
 
-## İsveç Çakısı Baris Mucahid👋  
+## Baris Mucahid👋  
  ![](https://img.shields.io/badge/Backend%20Developer-Engineer@Computer-red)
 
 
