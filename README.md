@@ -22,5 +22,10 @@
 </a>
   </tr>
 </table>
+<br></br>
+
+
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mucahidbaris.mucahidbaris)](#)
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mucahidbaris&theme=prussian">
