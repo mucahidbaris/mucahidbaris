@@ -1,6 +1,6 @@
 
 
-## Baris Mucahid👋  
+## Baris Mucahid👋  [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mucahidbaris.mucahidbaris)](#)
  ![](https://img.shields.io/badge/Backend%20Developer-Engineer@Computer-red)
 <table class="center">
 <tr>
@@ -25,7 +25,7 @@
 <br></br>
 
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mucahidbaris.mucahidbaris)](#)
+
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mucahidbaris&theme=prussian">
