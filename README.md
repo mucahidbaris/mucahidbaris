@@ -56,4 +56,4 @@
 <br />
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mucahidbaris&show_icons=true&locale=en&layout=compact" alt="mucahidbaris" /></p><br />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mucahidbaris&theme=prussian&layout=compact" alt="mucahidbaris">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mucahidbaris&theme=prussian&layout=compact" alt="mucahidbaris" width="50%" >
