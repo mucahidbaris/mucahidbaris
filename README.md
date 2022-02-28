@@ -22,10 +22,5 @@
 </a>
   </tr>
 </table>
-<br></br>
-
-
-
-
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mucahidbaris&theme=prussian">
