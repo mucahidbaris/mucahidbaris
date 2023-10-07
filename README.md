@@ -6,7 +6,7 @@
 ----
  - 🔭  I’m currently developing **NodeJs,PHP,Mysql,Python Radiology System (RIS-DCOM-PACS)** 
 - 🌱  I’m currently learning **Go,Dijango,AI and Machine Learning**
-- 💬  Working **Ministry Health of Turkey Radiology Tech.**
+- 💬  Working **Ministry Health of Turkey Biyology.**
 - 📕  Master Selcuk Universty Biotechnology 
 - 📫  mucahidbaris@gmail.com
 <table class="center">
